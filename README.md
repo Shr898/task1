@@ -9,3 +9,6 @@ I have created .gitignore and .dockerignore files to ignore directories such as 
 
 ## 2. This is when the all the last job ran successfully.
 ![This is when the all the last job ran successfully.](screenshots/task1-README-file-job-run-successful.png)
+
+## 3. This is the image of nodejs-demp-app pushed to dockerhub.
+![Docker image pushed to dockerhub](screenshots/task1-dockerhub-image-pushed.png)
